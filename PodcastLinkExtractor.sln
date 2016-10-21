@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastLinkExtractor", "PodcastLinkExtractor\PodcastLinkExtractor.csproj", "{13AE3575-60F4-4833-818F-80AB674E94C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastLinkExtractor.Tests", "PodcastLinkExtractor.Tests\PodcastLinkExtractor.Tests.csproj", "{BBE99FEF-B69E-4F9F-82A0-1E9E30838D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13AE3575-60F4-4833-818F-80AB674E94C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AE3575-60F4-4833-818F-80AB674E94C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AE3575-60F4-4833-818F-80AB674E94C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AE3575-60F4-4833-818F-80AB674E94C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE99FEF-B69E-4F9F-82A0-1E9E30838D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE99FEF-B69E-4F9F-82A0-1E9E30838D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE99FEF-B69E-4F9F-82A0-1E9E30838D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE99FEF-B69E-4F9F-82A0-1E9E30838D70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
